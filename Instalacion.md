@@ -2,4 +2,4 @@
 
 Hacemos un yum update e instalamos yum-utils
 
-![imagen1](imagenes/imagen1)
+![imagen1](/imagenes/imagen1)
