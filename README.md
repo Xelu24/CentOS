@@ -1,7 +1,7 @@
 # CentOS
 
 ### Descripción
-En este directorio veremos como instalar docker en CentOS 8
+En este repositorio veremos como instalar docker en CentOS 8
 
 ### Índice
 [1.-Instalación de docker en CentOS](Instalacion.md)
