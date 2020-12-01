@@ -2,8 +2,8 @@
 
 ### Docker
 
-![imagen7](/imagenes/imagen7.png)
+![imagen7](/imagenes/imagen7.PNG)
 
 ### Docker Compose
 
-![imagen8](/imagenes/imagen8.png)
+![imagen8](/imagenes/imagen8.PNG)
